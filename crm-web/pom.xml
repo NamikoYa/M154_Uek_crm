@@ -79,12 +79,12 @@
 
 				<configuration>
 					<verbose>true</verbose>
-					<authConfig>
+					<!--authConfig>
 						<username>namikoya</username>
-					</authConfig>
+					</authConfig-->
 					<images>
 						<image>
-							<name>ch.ilv.crm.web</name>
+							<name>namikoya/ch.ilv.crm.web</name>
 							<build>
 								<dockerFileDir>${project.basedir}</dockerFileDir>
 								<assembly>
