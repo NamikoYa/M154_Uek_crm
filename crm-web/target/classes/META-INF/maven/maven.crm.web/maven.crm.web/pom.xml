@@ -79,9 +79,9 @@
 
 				<configuration>
 					<verbose>true</verbose>
-					<!-- authConfig>
-						<username>TODO (optional): User Name</username>
-					</authConfig-->
+					<authConfig>
+						<username>namikoya</username>
+					</authConfig>
 					<images>
 						<image>
 							<name>ch.ilv.crm.web</name>
